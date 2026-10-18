@@ -1,0 +1,3 @@
+[2025-12-21 16:52:14] SMS gönderildi -> Tel: 5551234567 | Mesaj: DIKKAT: Sn. Test Patient, kardiyak risk skorunuz %95 olarak hesaplanmistir (Kritik Seviye). Lutfen en kisa surede Dr. Test Doctor ile iletisime geciniz. - CardioRisk
+[2025-12-21 16:54:26] SMS gönderildi -> Tel: +905421206856 | Mesaj: DIKKAT: Sn. murat khabibullaev, kardiyak risk skorunuz %86 olarak hesaplanmistir (Kritik Seviye). Lutfen en kisa surede Dr. Dr. Mehmet Yılmaz ile iletisime geciniz. - CardioRisk
+[2025-12-23 12:31:41] SMS gönderildi -> Tel: 0000000000 | Mesaj: DIKKAT: Sn. Ahmet Öztürk, kardiyak risk skorunuz %68 olarak hesaplanmistir (Kritik Seviye). Lutfen en kisa surede Dr. Mehmet Yılmaz ile iletisime geciniz. - CardioRisk
